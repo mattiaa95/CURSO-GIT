@@ -1,2 +1,2 @@
 # CURSO-GIT
-Repositorio de ejemplo Para el Curso deGIT
+Repositorio de ejemplo Para el Curso de GIT
